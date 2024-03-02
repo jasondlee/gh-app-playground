@@ -2,3 +2,7 @@ twilio:
   sid: my_sid
   token: my_token
   phoneNumber: 867-5309
+canComment:
+  - jasondlee
+  - frodo_baggins
+  - chuck_norris
