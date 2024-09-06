@@ -3,6 +3,6 @@ twilio:
   token: my_token
   phoneNumber: 867-5309
 canComment:
-  - jasondlee
+  - jasondlee2
   - frodo_baggins
   - chuck_norris
